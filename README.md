@@ -15,8 +15,7 @@ This repository contains a basic 2D game made with Godot, following the concepts
 ## Play the Game
 
 You can play the game here:  
-**https://aradeyal.github.io/First-Game-Godot/**
-
+https://aradeyal.github.io/First-Godot-Game/
 
 ## Getting Started
 
